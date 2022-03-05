@@ -1,6 +1,6 @@
 # Social-Media-Template
 
-A Social Media template I built while I was learning w3.css Columns and Cards
+A Social Media template I built while I was learning w3.css Columns and Cards :)
 
 ## Getting Started
 
